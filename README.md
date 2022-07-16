@@ -11,9 +11,11 @@ Objectives:
 
 Example Output:
 
-![image](https://user-images.githubusercontent.com/97081479/179338509-0ebbeae2-015a-4ebf-9f5e-3d6b975247e2.png)
+![image](https://user-images.githubusercontent.com/97081479/179338685-fea89ed3-e547-4cc2-9b5d-079510abc808.png)
 
-![image](https://user-images.githubusercontent.com/97081479/179338522-f0cafe28-20b4-4d6f-9efd-ad825057e77b.png)
+![image](https://user-images.githubusercontent.com/97081479/179338690-95dc6613-cabf-4548-b225-47de1152c0e4.png)
+
+![image](https://user-images.githubusercontent.com/97081479/179338710-efe2af2e-dd66-4028-9a57-7c7f82746af2.png)
 
 ![image](https://user-images.githubusercontent.com/97081479/179338540-8083b769-7ec2-47ab-927d-6b8b3416da1b.png)
 
