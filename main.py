@@ -1,4 +1,5 @@
 # mini rock paper scissors game
+# Author : Fransiskus Agapa
 import random
 import time
 
